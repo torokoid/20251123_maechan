@@ -258,7 +258,7 @@ p.note { display: none; }
 <h2><span class="yellow">お店を出ると綺麗な夕暮れ</span></h2>
 <a href="20251123_046.JPG" target="_blank"><img src="20251123_046.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">駐車場東側の田んぼに水が張られて、鎮守の森が夕陽に照らされてました</span></h2>
+<h2><span class="yellow">駐車場東側の田んぼに水が張られて、水田の向こうで鎮守の森が夕陽に照らされてました</span></h2>
 <a href="20251123_047.JPG" target="_blank"><img src="20251123_047.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">西の空の雲が図形を描いてます</span></h2>
