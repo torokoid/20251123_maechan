@@ -166,7 +166,7 @@ p.note { display: none; }
 
 <div class="media-container">
 
-<h2><span class="yellow">22,Nov,2025 小さな無線機を右のPCに繋いでNet経由で日本の無線家達と交信します<br>左のPCはHP作成に使ってるM cBookPro</span></h2>
+<h2><span class="yellow">22,Nov,2025 小さな無線機を右のPCに繋いでNet経由で日本の無線家達と交信します<br>左のPCはHP作成に使ってるMac Book Pro</span></h2>
 <a href="20251123_001.JPG" target="_blank"><img src="20251123_001.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">朝からの青空の下、お花の蕾がニッコリ、なぜか開花せずにこの姿で落ちちゃいます</span></h2>
