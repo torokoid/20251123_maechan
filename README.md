@@ -277,6 +277,8 @@ p.note { display: none; }
 <a href="20251123_056.JPG" target="_blank"><img src="20251123_056.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251123_057.JPG" target="_blank"><img src="20251123_057.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251123_058.JPG" target="_blank"><img src="20251123_058.JPG" alt="サンプル画像" class="responsive-media"></a>
+
+<h2><span class="yellow">夕暮れグラデーションがオレンジとブルーに綺麗に割れてます</span></h2>
 <a href="20251123_059.JPG" target="_blank"><img src="20251123_059.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251123_060.JPG" target="_blank"><img src="20251123_060.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251123_061.JPG" target="_blank"><img src="20251123_061.JPG" alt="サンプル画像" class="responsive-media"></a>
